@@ -245,6 +245,14 @@ td {
 
 
 /* TAGI */
+main.active_studia figure:not(.studia){
+    display: none;
+}
+
+#studia.active_studia {
+    color: #7c808f;
+}
+
 main.active_makaron figure:not(.makaron){
     display: none;
 }
