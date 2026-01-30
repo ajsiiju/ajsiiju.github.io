@@ -1,5 +1,11 @@
 const photo = document.querySelector('.photo');
 
+const studia = document.querySelector('#studia');
+studia.addEventListener('click', () => {
+    studia.classList.toggle('active_studia');
+    photo.classList.toggle('active_studia');
+})
+
 const makaron = document.querySelector('#makaron');
 makaron.addEventListener('click', () => {
     makaron.classList.toggle('active_makaron');
