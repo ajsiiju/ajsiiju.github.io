@@ -253,6 +253,7 @@ main.active_studia figure:not(.studia){
     color: #7c808f;
 }
 
+
 main.active_makaron figure:not(.makaron){
     display: none;
 }
