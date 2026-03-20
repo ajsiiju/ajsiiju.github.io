@@ -134,7 +134,7 @@ var nazwa = ["spaghetti",
 
 var tagi = [/*spaghetti*/"makaron mieso", 
     /*tortilla*/"mieso wege ryba szybkie studia", 
-    /*spgahetti tonno*/"makaron ryba szybkie", 
+    /*spgahetti tonno*/"makaron ryba szybkie studia", 
     /*kasza z sosem mięsnym*/"kasza mieso szybkie", 
     /*klopsy z ziemniakami i mizerią*/"ziemniaki surowki x3 mieso", 
     /*kaszotto*/"kasza wege", 
@@ -192,11 +192,11 @@ var tagi = [/*spaghetti*/"makaron mieso",
     /*gyros*/"surowki mieso",
     /*pastisio*/"makaron mieso piekarnik",
     /*surówka wiosenna*/"surowki wege",
-    /*makaron z kurczakiem i sosem śmietanowo-pomidorowym*/"makaron mieso szybkie",
+    /*makaron z kurczakiem i sosem śmietanowo-pomidorowym*/"makaron mieso szybkie studia",
     /*ryż*/"ryz studia",
-    /*pancakes*/"wege slodkie szybkie",
+    /*pancakes*/"wege slodkie szybkie studia",
     /*owsianki nocne*/"szybkie wege slodkie",
-    /*grysik*/"szybkie slodkie wege kasza"];
+    /*grysik*/"szybkie slodkie wege kasza studia"];
 
 for (let i = 0; i < nazwa.length; i++) {
 
